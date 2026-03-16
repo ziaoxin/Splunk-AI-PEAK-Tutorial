@@ -30,13 +30,6 @@ By following this tutorial, you will complete the full lifecycle of Splunk App d
 
 ---
 
-## 📂 Repository Document Navigation
-''
-
-> 🔔 Upcoming tutorials (Day3-Day21) will be updated continuously. Please Star the repository to stay tuned.
-
----
-
 ## 🚀 Quick Start
 ### Prerequisites
 - Operating System: Windows (with WSL2 + Ubuntu enabled), native Linux or macOS
