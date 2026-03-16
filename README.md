@@ -33,13 +33,6 @@ To:[English Version](./en/README.en.md)
 
 ---
 
-## 📂 仓库文档导航
-''
-
-> 🔔 后续 Day3-Day21 教程将持续更新，敬请 Star 关注仓库动态
-
----
-
 ## 🚀 快速开始
 ### 环境要求
 - 操作系统：Windows（需开启 WSL2 + Ubuntu）、原生 Linux 或 macOS
