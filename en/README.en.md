@@ -52,7 +52,7 @@ By following this tutorial, you will complete the full lifecycle of Splunk App d
 2. **Complete Preparations**
    Refer to the "Prerequisites & Preparation" section below to register a Splunk developer account, apply for a license, and prepare your LLM API Key.
 3. **Start Your Learning Journey**
-   Start with [Day 1 Environment Setup Tutorial](./🚀%20Day%201：兵马未动，粮草先行%20——%20零基础构建极客底层环境.md) and follow the sequence to complete the full hands-on practice.
+   Start with [Day 1 Environment Setup Tutorial](./01.Day-1-Environment-Setup.md) and follow the sequence to complete the full hands-on practice.
 
 ---
 
