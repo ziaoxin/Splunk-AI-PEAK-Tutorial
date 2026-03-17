@@ -2,7 +2,7 @@
 ---
 # Splunk AI-PEAK AI威胁狩猎插件开发 21天实战教程
 
-To:[English Version](./en/README.en.md) 
+To: [English Version](./en/README.en.md) 
 
 ---
 
@@ -64,7 +64,7 @@ To:[English Version](./en/README.en.md)
 - [x] [Day 1：兵马未动，粮草先行 —— 搭建极客开发环境](<./01.Day 1：兵马未动，粮草先行 —— 零基础构建极客底层环境.md>)
 - [x] [Day 2：神器降临 —— 掌握 Splunk Add-on Builder (AOB)](<./02.Day 2：神器降临 —— 掌握 Splunk Add-on Builder (AOB).md>)
 - [x] [Day 3：打通 AI 经脉 —— 大模型 API 基础与测试](<./03.Day 3：打通 AI 经脉 —— 大模型 API 基础与测试.md>)
-- [ ] Day 4：安全第一 —— 配置插件全局凭证 (Setup Parameters)
+- [x] [Day 4：安全第一 —— 配置插件全局凭证 (Setup Parameters)](<./04.Day 4：安全第一 —— 配置插件全局凭证 (Setup Parameters).md>)
 - [ ] Day 5：任务调度器 —— 建立后台数据输入流 (Data Inputs)
 
 ### 🔵 第二阶段：注入安全灵魂与多轮迭代逻辑 (第 6-10 天)
