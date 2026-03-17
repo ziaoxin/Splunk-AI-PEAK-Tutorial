@@ -58,14 +58,14 @@ To: [English Version](./en/README.en.md)
  
 >💡[__教程总览：21天实战课程介绍__](<./00.教程总览：《21天实战 Splunk AI 威胁狩猎插件开发》.md>) 
 
->💡已经更新到第3天，后续章节将继续完善。
+>💡已经更新到第5天，后续章节将继续完善。
 
 ### 🟢 第一阶段：环境初始化与大模型接入 (第 1-5 天)
 - [x] [Day 1：兵马未动，粮草先行 —— 搭建极客开发环境](<./01.Day 1：兵马未动，粮草先行 —— 零基础构建极客底层环境.md>)
 - [x] [Day 2：神器降临 —— 掌握 Splunk Add-on Builder (AOB)](<./02.Day 2：神器降临 —— 掌握 Splunk Add-on Builder (AOB).md>)
 - [x] [Day 3：打通 AI 经脉 —— 大模型 API 基础与测试](<./03.Day 3：打通 AI 经脉 —— 大模型 API 基础与测试.md>)
 - [x] [Day 4：安全第一 —— 配置插件全局凭证 (Setup Parameters)](<./04.Day 4：安全第一 —— 配置插件全局凭证 (Setup Parameters).md>)
-- [ ] Day 5：任务调度器 —— 建立后台数据输入流 (Data Inputs)
+- [x] [Day 5：任务调度器 —— 唤醒 AI 的“心跳” (Data Inputs)](<./05.Day 5：任务调度器 —— 唤醒 AI 的“心跳” (Data Inputs).md>)
 
 ### 🔵 第二阶段：注入安全灵魂与多轮迭代逻辑 (第 6-10 天)
 - [ ] Day 6：连接数据之源 —— Splunk SDK for Python 实战
