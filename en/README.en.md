@@ -62,7 +62,7 @@ By following this tutorial, you will complete the full lifecycle of Splunk App d
 - [x] [Day 2: Mastering Splunk Add-on Builder (AOB)](./02.Day-2-AOB-Tutorial.md)
 - [x] [Day 3: Connecting the AI Pathways - LLM API Basics and Testing](./03.Day-3-llm-api-basics.md)
 - [x] [Day 4: Security First - Configuring Plugin Global Credentials](./04.Day-4-setup-parameters.md)
-- [x] [Day 5: Task Scheduler —— Awakening the "Heartbeat" of AI](./05.Day-5-task-scheduler.md)
+- [x] [Day 5: Task Scheduler —— Awakening the "Heartbeat" of AI](./05.Day-5-data-input-and-task-scheduler.md)
 
 ### 🔵 Phase 2: Core Security Logic & Iterative Analysis Workflow (Days 6-10)
 - [ ] Day 6: Tapping into the Data Source - Splunk SDK for Python

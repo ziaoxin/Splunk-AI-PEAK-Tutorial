@@ -65,7 +65,7 @@ To: [English Version](./en/README.en.md)
 - [x] [Day 2：神器降临 —— 掌握 Splunk Add-on Builder (AOB)](<./02.Day 2：神器降临 —— 掌握 Splunk Add-on Builder (AOB).md>)
 - [x] [Day 3：打通 AI 经脉 —— 大模型 API 基础与测试](<./03.Day 3：打通 AI 经脉 —— 大模型 API 基础与测试.md>)
 - [x] [Day 4：安全第一 —— 配置插件全局凭证 (Setup Parameters)](<./04.Day 4：安全第一 —— 配置插件全局凭证 (Setup Parameters).md>)
-- [x] [Day 5：任务调度器 —— 唤醒 AI 的“心跳” (Data Inputs)](<./05.Day 5：任务调度器 —— 唤醒 AI 的“心跳” (Data Inputs).md>)
+- [x] [Day 5：任务调度器 —— 数据输入与“心跳”机制](<./05.Day 5：任务调度器 —— 数据输入与心跳机制.md>)
 
 ### 🔵 第二阶段：注入安全灵魂与多轮迭代逻辑 (第 6-10 天)
 - [ ] Day 6：连接数据之源 —— Splunk SDK for Python 实战
