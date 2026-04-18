@@ -65,7 +65,7 @@ By following this tutorial, you will complete the full lifecycle of Splunk App d
 - [x] [Day 5: Task Scheduler —— Awakening the "Heartbeat" of AI](./05.Day-5-data-input-and-task-scheduler.md)
 
 ### 🔵 Phase 2: Core Security Logic & Iterative Analysis Workflow (Days 6-10)
-- [ ] Day 6: Tapping into the Data Source - Splunk SDK for Python
+- [x] [Day 6: Tapping into the Data Source - Splunk SDK for Python](./06.Day-6-splunk-sdk-integration.md)
 - [ ] Day 7: PEAK Framework and ABLE Hypothesis Prompt Engineering
 - [ ] Day 8: Autonomous Hunting Loop - Execute Phase Coding
 - [ ] Day 9: Landing the Results - Act Phase Final Report Generation

@@ -68,7 +68,7 @@ To: [English Version](./en/README.en.md)
 - [x] [Day 5：任务调度器 —— 数据输入与“心跳”机制](<./05.Day 5：任务调度器 —— 数据输入与心跳机制.md>)
 
 ### 🔵 第二阶段：注入安全灵魂与多轮迭代逻辑 (第 6-10 天)
-- [ ] Day 6：连接数据之源 —— Splunk SDK for Python 实战
+- [x] [Day 6：连接数据之源 —— Splunk SDK for Python 实战](<06.Day 6：连接数据之源 —— Splunk SDK for Python 实战.md>)
 - [ ] Day 7：植入顶级大脑 —— PEAK 框架与 ABLE 假设提示词工程
 - [ ] Day 8：自主狩猎循环 —— Execute 阶段代码编写
 - [ ] Day 9：成果落地 —— Act 阶段最终报告生成
