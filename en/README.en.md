@@ -55,31 +55,31 @@ By following this tutorial, you will complete the full lifecycle of Splunk App d
 
 > 💡[__Course Overview: 21 Days in Action__](./00.Course-Overview.md)
 
-> 💡Day 5 has been uploaded. The following days will continue to improve the tutorial.
+> 💡Day 10 has been uploaded. The following days will continue to improve the tutorial.
 
 ### 🟢 Phase 1: Environment Initialization & LLM Integration (Days 1-5)
 - [x] [Day 1: Building the Splunk Development Environment](./01.Day-1-Environment-Setup.md)
 - [x] [Day 2: Mastering Splunk Add-on Builder (AOB)](./02.Day-2-AOB-Tutorial.md)
 - [x] [Day 3: Connecting the AI Pathways - LLM API Basics and Testing](./03.Day-3-llm-api-basics.md)
-- [x] [Day 4: Security First - Configuring Plugin Global Credentials](./04.Day-4-setup-parameters.md)
-- [x] [Day 5: Task Scheduler —— Awakening the "Heartbeat" of AI](./05.Day-5-data-input-and-task-scheduler.md)
+- [x] [Day 4: Security First — Configuring Plugin Global Credentials](./04.Day-4-setup-parameters.md)
+- [x] [Day 5: Task Scheduler — Awakening the "Heartbeat" of AI](./05.Day-5-data-input-and-task-scheduler.md)
 
 ### 🔵 Phase 2: Core Security Logic & Iterative Analysis Workflow (Days 6-10)
-- [x] [Day 6: Tapping into the Data Source - Splunk SDK for Python](./06.Day-6-splunk-sdk-integration.md)
-- [ ] Day 7: PEAK Framework and ABLE Hypothesis Prompt Engineering
-- [ ] Day 8: Autonomous Hunting Loop - Execute Phase Coding
-- [ ] Day 9: Landing the Results - Act Phase Final Report Generation
-- [ ] Day 10: Confronting Pain Points - The JSON Truncation Issue
+- [x] [Day 6: Tapping into the Data Source — Splunk SDK for Python](./06.Day-6-splunk-sdk-integration.md)
+- [x] [Day 7: Implanting a Top-Tier Brain — The PEAK Framework ABLE Hypothesis Prompt Engineering](./07.Day-7-Implanting-a-Top-Tier-Brain.md)
+- [x] [Day 8: Autonomous Hunting Loop — Building a Dashboard-Ready Agentic Execution Engine](./08.Day-8-Autonomous-Hunting-Loop.md)
+- [x] [Day 9: Delivering Results — Act Phase Report Generation and Dashboard Data Ingestion](./09.Day09-Act-Phase-Report-Ingestion.md)
+- [x] [Day 10: Navigating Deep Waters — System Pain Points & Architecture Restructuring](./10.Day10-Architecture-Restructuring.md)
 
 ### 🟣 Phase 3: Enterprise-Grade Refactoring and Optimization (Days 11-15)
-- [ ] Day 11: Mandatory Constraints and max_tokens Optimization
-- [ ] Day 12: Reshaping the Data Model - The Flat Events Revolution
-- [ ] Day 13: Cost Tracking - Extracting LLM API Token Consumption
-- [ ] Day 14: Extreme Fault Tolerance and Exception Handling
-- [ ] Day 15: The Grand Unification - Code Review and Data Validation
+- [x] [Day 11: Soul Injection — Completely Scrapping Mocks, Integrating Real LLMs](./11.Day11-Real-API-Integration.md)
+- [x] [Day 12: Dynamic Context Distillation — Optimizing Prompts and Guardrails](./12.Day12-Context-Distillation-and-Guardrails.md)
+- [x] [Day 13: True Actuary — Extracting API Token Costs in Real Environments](./13.Day13-FinOps-Token-Cost-Tracking.md)
+- [x] [Day 14: Chaos Engineering & Schema Defense — Validating System Resilience](./14.Day14-Chaos-Engineering-and-Schema-Defense.md)
+- [x] [Day 15: The Grand Unification — Code Review & "transaction" Cross-Phase Data Validation](./15.Day15-Backend-Code-Freeze-and-Transaction-Validation.md)
 
 ### 🟠 Phase 4: Geek Dashboard Development and Automated Operations (Days 16-18)
-- [ ] Day 16: Management Perspective Dashboard Design
+- [x] [Day 16: Management Perspective Dashboard Design](./16.Day16-Dashboard-and-Log-Normalization.md)
 - [ ] Day 17: Bypassing AOB's Front-End Restrictions
 - [ ] Day 18: Shell Automation Scripts
 
